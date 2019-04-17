@@ -2,8 +2,8 @@
 Last Update: April 16, 2019
 
 Team Members:
-Matthew Chan
-Zhe Li
-Gordon McCreary
-Ken Gil Romero
+Matthew Chan,
+Zhe Li,
+Gordon McCreary,
+Ken Gil Romero,
 Tammy Vo
