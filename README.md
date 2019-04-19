@@ -9,4 +9,4 @@
 - Tammy Vo
 
 
-[Email Team Members](mailto:gord@uw.edu)
+[Email Team Members](mailto:gord@uw.edu,votammy97@gmail.com,kgmr@uw.edu,lz897825130@gmail.com,matthew417@gmail.com)
